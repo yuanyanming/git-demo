@@ -14,4 +14,4 @@ hello git!hello Yuan!
 hello git!hello Yuan!
 hello git!hello Yuan!
 hello git!hello Yuan! master test
-hello git!hello Yuan!
+hello git!hello Yuan! hot-fix test
